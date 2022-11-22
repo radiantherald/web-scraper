@@ -13,8 +13,8 @@ split_ratio = ratio to split training and test sets (expected list).
 
 Required Libraries/Packages. 
 
-os (https://pypi.org/project/os-sys/).   \
-requests (https://pypi.org/project/requests/).   \ 
-splitfolders (https://pypi.org/project/split-folders/).   \ 
-bs4/Beautiful Soup (https://pypi.org/project/beautifulsoup4/).   \ 
-PIL/Image (https://pypi.org/project/Pillow/).   \ 
+os (https://pypi.org/project/os-sys/).   <br />
+requests (https://pypi.org/project/requests/).   <br />
+splitfolders (https://pypi.org/project/split-folders/).   <br />
+bs4/Beautiful Soup (https://pypi.org/project/beautifulsoup4/).   <br />
+PIL/Image (https://pypi.org/project/Pillow/).   <br />
