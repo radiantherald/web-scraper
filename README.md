@@ -1,5 +1,5 @@
 # web-scraper
-##Program to web - scrape images from Google/Pinterest to build your own dataset.
+## Program to web - scrape images from Google/Pinterest to build your own dataset.
 
 This program comes in handy to create datasets for your ML/DL models. Just specify the link from where you want to scrape, the resultant folder, the image size required for the model and the split ratio.
 It comes in-built with image resizing features and option to split the scraped images into training and test set.
