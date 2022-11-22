@@ -5,10 +5,10 @@ This program comes in handy to create datasets for your ML/DL models. Just speci
 It comes in-built with image resizing features and option to split the scraped images into training and test set.
 
 Required Inputs -      
-url = website link. 
-folder = resultant folder. 
-size = image resize dimensions (expected list). 
-split_ratio = ratio to split training and test sets (expected list). 
+url = website link. <br />
+folder = resultant folder. <br />
+size = image resize dimensions (expected list). <br />
+split_ratio = ratio to split training and test sets (expected list). <br />
 
 
 Required Libraries/Packages. 
